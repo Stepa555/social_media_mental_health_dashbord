@@ -1,9 +1,9 @@
-# 📱 Social Media & Mental Health Dashboard — Портфолио Junior Data Analyst
+# Social Media & Mental Health Dashboard — Портфолио Junior Data Analyst
 
 **Роль:** Junior Data Analyst  
 **Инструмент:** Power BI + Python (EDA)  
-**Период:** 2023-2024  
-**Масштаб:** 1200 подростков, 13 факторов
+**Период:** 2023–2024  
+**Масштаб:** 1200 подростков, 13 факторов  
 
 ---
 
@@ -43,24 +43,21 @@
 
 ## 📸 Скриншоты дашборда
 
-### Страница 1 — Общая статистика
-![Страница 1](screenshots/1_страница.png)
+| Страница 1 | Страница 2 | Страница 3 |
+|------------|------------|------------|
+| ![Страница 1](screenshots/1%20страница.png) | ![Страница 2](screenshots/2%20страница.png) | ![Страница 3](screenshots/3%20страница.png) |
 
-### Страница 2 — Соцсети и психика
-![Страница 2](screenshots/2_страница.png)
-
-### Страница 3 — Выводы и рекомендации
-![Страница 3](screenshots/3_страница.png)
 ---
 
 ## 📁 Файлы
 
-- `social_media_mental_health.pbix` — исходный файл Power BI
-- `Иследование_соцетей_на_психику.ipynb` — Python-анализ (EDA)
+- [`social_media_mental_health.pbix`](social_media_mental_health.pbix) — исходный файл Power BI
+- [`Исследование_соцсетей_на_психику.ipynb`](Исследование_соцсетей_на_психику.ipynb) — Python-анализ (EDA)
 
 ---
 
 ## 📫 Контакты
 
 **Степан Апсалямов**  
-[Telegram](Stepap445) | [GitHub](https://github.com/Stepa555)
+[Telegram](https://t.me/Stepap445) | [GitHub](https://github.com/Stepa555)
+
